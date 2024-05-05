@@ -1,5 +1,5 @@
 # Tips
-Descripton <br>
+<p> Have you ever found yourself needing to understand how your data is interpreted and classified within a system? Here's a tip to simplify that process. </p>
 
 # Ghost
 **Example** <br>
