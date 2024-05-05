@@ -1,5 +1,5 @@
 # Tips
-Text
+Descripton
 
 # Ghost
 **Example**<br>
