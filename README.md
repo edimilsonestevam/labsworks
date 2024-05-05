@@ -7,7 +7,7 @@
 
 **Sample Usage** <br>
 ```python
-If(D3="","",If(D3>=80%,"Approved","Disapproved"))
+If(D3="","",If(D4>=80%,"Approved","Disapproved"))
 ```
 
 **Syntax** <br>
