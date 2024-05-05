@@ -1,7 +1,7 @@
 # Tips
 Text
 
-# GHOST
+# Ghost
 **Example**<br>
 
 **Sample Usage**<br>
