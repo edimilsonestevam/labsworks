@@ -14,8 +14,8 @@ If(D3="","",If(D3>=80%,"Approved","Disapproved"))
 ```python
 If(value1,value2,If(value3,value4,value5))
 ```
-* **value1:** the first variable is compared to a null value and if they match, the field remains empty.<br>
-* **value2:** description <br>
+* **value1:** the initial value is being compared to an empty value.<br>
+* **value2:** if the initial value is blank, then the field will remain blank.<br>
 * **value3:** description <br>
 * **value4:** description <br>
 * **value5:** description <br>
