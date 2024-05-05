@@ -3,6 +3,7 @@ Text
 
 # Ghost
 **Example**<br>
+<img src="mainTable.png">
 
 **Sample Usage**<br>
 
